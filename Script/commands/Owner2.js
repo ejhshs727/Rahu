@@ -18,7 +18,7 @@ module.exports.config = {
 };
 
 module.exports.run = async function ({ api, event }) {
- const imageUrl = "https://graph.facebook.com/61582708907708/picture?height=720&width=720&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662";
+ const imageUrl = "https://graph.facebook.com/61586062274407/picture?height=720&width=720&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662";
  const path = __dirname + "/cache/owner.png";
 
  request(imageUrl)
@@ -28,8 +28,8 @@ module.exports.run = async function ({ api, event }) {
  body:
 `🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟
 
-👑 𝗡𝗮𝗺𝗲: Rahat Islam😘
-😻 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: মেয়েদের মনে🙈
+👑 𝗡𝗮𝗺𝗲:𝐀𝐁𝐈𝐑 𝐇𝐀𝐒𝐀𝐍 𝐑𝐀𝐇𝐀𝐓😘
+😻 � 𝐚𝐝𝐝𝗿𝗲𝘀𝘀: মেয়েদের মনে🙈
 💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: মেয়েদের মন জয় করা😍
 
 🌐 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: আইডি বেইচ্চা খাইয়া লাইছি😁
