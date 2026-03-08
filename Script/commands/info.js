@@ -7,7 +7,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+ credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒l𝐀𝐌🔰",
  description: "Show  Info",
  commandCategory: "info",
  usages: "info",
